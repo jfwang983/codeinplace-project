@@ -1,0 +1,57 @@
+District of Columbia,11685.51
+New Jersey,1207.83
+Puerto Rico,1022.36
+Massachusetts,883.68
+Connecticut,734.92
+Maryland,623.99
+Delaware,506.32
+New York,410.32
+Florida,405.45
+Ohio,286.19
+Pennsylvania,285.73
+California,252.74
+Illinois,226.73
+Hawaii,218.89
+North Carolina,218.04
+Vermont,217.52
+Indiana,188.56
+Georgia,186.26
+Michigan,176.31
+Rhode Island,173.53
+South Dakota,167.01
+New Hampshire,152.62
+Virginia,115.78
+Kentucky,113.37
+Tennessee,112.4
+West Virginia,107.7
+Louisiana,107.53
+Alabama,97.18
+Missouri,89.52
+Washington,74.25
+Minnesota,71.07
+Utah,67.63
+Arizona,65.33
+Mississippi,63.23
+Arkansas,58.25
+Oklahoma,58.03
+Iowa,56.64
+Colorado,56.04
+Oregon,44.19
+Maine,43.78
+Texas,39.54
+Kansas,35.64
+Nevada,28.59
+Nebraska,25.22
+Idaho,22.11
+New Mexico,17.36
+South Carolina,11.78
+North Dakota,11.09
+Montana,7.42
+Wisconsin,6
+Wyoming,6
+Alaska,1.28
+American Samoa,715
+Diamond Princess,120.40
+Grand Princess,145.86
+Virgin Islands,773
+Northern Mariana Islands,324
